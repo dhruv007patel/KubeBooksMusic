@@ -1,8 +1,8 @@
-# Dataminers: CMPT 756 Main Project Directory
+# Dataminers: CMPT 756 Course Project 
 
-This is the course repo for CMPT 756 (Spring 2022)
+You will find resources for your assignments and term project in this repository.
 
-You will find resources for your assignments and term project here.
+Term Project: "KubeBooksMusic: A Microservice Architecture for Bookstore and Music Store using AWS EKS and DynamoDB"
 
 ### 1. Prerequisites
 **Note**: This project has been developed on the local machine and not in the Ubuntu Container(`./tools/shell.sh`). 
